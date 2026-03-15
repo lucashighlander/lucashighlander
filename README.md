@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou o Lucas Highlander 👋
+#### 📚Estudante de Desenvolvimento de Sistemas.
+##### Estou iniciando minha jornada na área de tecnologia, atualmente estudando as bases da programação.
+- 💻 Focado em Python, HTML e CSS.
 
-<!--
-**lucashighlander/lucashighlander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ##### Contato
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:highlanderlucas11@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Linguagens e Ferramentas
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
